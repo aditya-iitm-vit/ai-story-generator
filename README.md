@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Live Demo
 
-Check out the live application: [AI Story Generator](https://elaborate-basbousa-4724b2.netlify.app)
+Check out the live application: [AI Story Generator](https://ai-story-generator-web.netlify.app)
 
 ---
 
